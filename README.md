@@ -44,3 +44,16 @@ Technologies used:
 
 Stepik: https://stepik.org/users/1000261412
 
+## Practice
+
+SQL-EX — 30+ SQL problems solved  
+https://www.sql-ex.ru
+
+20+ SQL problems solved
+https://solvit.space/coding
+
+50+ SQL problems solved
+https://sql-academy.org/
+
+Stepik SQL Course  
+https://stepik.org/users/1000261412
