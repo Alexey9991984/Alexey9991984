@@ -1,6 +1,46 @@
-- 👋 Hi, I’m Alexey Fandieiev 
-- 🌱 I’m currently learning Python (Pandas, NumPy) SQL, Power Bi for Data Analysis 
-<!---
-Alexey9991984/Alexey9991984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Oleksii Fandieiev 👋
+
+Aspiring **Data Analyst** with a strong interest in SQL, Python, and business data analysis.
+
+Currently transitioning into a data analytics career and building practical projects using real datasets.
+
+## Skills
+
+* SQL (PostgreSQL)
+* Python (Pandas, NumPy)
+* Power BI
+* Data Visualization
+* Data Analysis
+
+## Current Learning Focus
+
+* Advanced SQL for data analysis
+* Python for data analytics
+* Building portfolio projects
+
+## Portfolio Projects
+
+### Northwind Sales Dashboard
+
+SQL analysis and Power BI dashboard for sales data.
+
+Technologies used:
+
+* SQL
+* PostgreSQL
+* Power BI
+
+### Netflix Data Analysis
+
+Exploratory data analysis using Python and Pandas.
+
+Technologies used:
+
+* Python
+* Pandas
+* Jupyter Notebook
+
+## Links
+
+Stepik: https://stepik.org/users/1000261412
+HackerRank: https://www.hackerrank.com/profile/fandeevalexey
