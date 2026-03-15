@@ -43,4 +43,4 @@ Technologies used:
 ## Links
 
 Stepik: https://stepik.org/users/1000261412
-HackerRank: https://www.hackerrank.com/profile/fandeevalexey
+
